@@ -1,14 +1,6 @@
 # React-Sample : hello-react
 This project is the first simple react project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Create React Project
-* Use `npm` to create react app
-  `npm init react-app project-name` 
-* Use `npx` to create react app
-  `npx create-react-app project-name` 
-* Use `yarn` to create react app
-  `yarn create react-app project-name` 
-
 ## Available Scripts
 
 In the project directory, you can run:
