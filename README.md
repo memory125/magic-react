@@ -3,9 +3,9 @@ This repo focuses on react learning.
 
 # Create React Project
 * Use `npm` to create react app
- ```
- npm init react-app project-name
- ```
+  ```
+  npm init react-app project-name
+  ```
 * Use `npx` to create react app
   ```
   npx create-react-app project-name
